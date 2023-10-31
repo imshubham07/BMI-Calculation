@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #686767;
+    background-color: #c77b7bd4;
 }
 
 .container {
@@ -41,7 +41,7 @@ input {
     margin: 0 40px 30px;
     font-size: 20px;
     text-align: center;
-    border: 5px solid white;  
+    border: 5px solid #e45e5e;  
 }
 
 button {
